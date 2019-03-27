@@ -1,0 +1,15 @@
+Création du projet 
+// Source https://tutorial.djangogirls.org/fr/django_start_project/
+
+
+# python -m pip install --upgrade pip
+
+création d'un répertoire requirements.txt
+>> Django~=2.1.7
+
+// va installer django
+# pip install -r requirements.txt
+
+
+// création du projet
+# django-admin.exe startproject www .
