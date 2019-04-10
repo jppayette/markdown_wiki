@@ -1,5 +1,5 @@
 #!/bin/bash
-gulp
+# gulp
 
 rsync.exe -arouvH --delete --exclude-from '.rsyncignore'  * jppayette.com:/home/docker/volumes/devurandom_io_home/_data/htdocs/wiki/
 
