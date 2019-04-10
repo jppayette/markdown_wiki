@@ -1,0 +1,20 @@
+{
+  "name": "wiki_devurandom_io",
+  "homepage": "https://github.com/jppayette/wiki_devurandom_io",
+  "authors": [
+    "Jean Patrick Payette <jp@payette.eu>"
+  ],
+  "description": "Wiki",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "showdown": "^1.9.0"
+  }
+}
