@@ -10,6 +10,8 @@ Créer les scripts pour générer les fichiers via le shell
 
 ## Usage
 
+1. Renommer le répertoire "wiki_sample" en "wiki"
+
 ### index.wiki
 
 * [titre1](?file1)                                 
