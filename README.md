@@ -1,3 +1,8 @@
-# Hyper simple wiki
+# Markdown Wiki
 
-Il s'agit principalement d'un wiki pour mes notes personnelles, un jour, je transférerais surement vers un nouveau wiki, mais bon..
+Structure d'un wiki utilisant markdown comme syntaxe
+* Utilise showdown comme interpreteur.
+
+# TODO 
+
+Créer les scripts pour générer les fichiers via le shell
